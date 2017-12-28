@@ -1,0 +1,15 @@
+email_from(882, 'mitchellpope_eq', 'execpc.com').
+email_subject_term(882, 'Intelligent', 1).
+email_subject_term(882, 'Investor', 2).
+email_subject_term(882, 'Report', 3).
+email_to(882, 'louise', 'astron.Berkeley.EDU').
+email_body_term(882, '', 1).
+email_body_term(882, 'VHJhZGluZyBBfGVydA0KDQogUHJlbWl1bSBQZXRyb2xldW0sIEluYy58UClQ', 2).
+email_body_term(882, 'KXxUfEx8DQpjdXJyZW50bHkgdHJhZGluZyBhdCBhcm91bmQgMC4wMiwgd2Ug', 3).
+email_body_term(882, 'ZXhwZWN0IGEgYmlnIGp1bXAgaW4gdGhlIHByaWNlIHRoaXMgd2VlayB1cCBh', 4).
+email_body_term(882, 'cm91bmQgLjEwIQ0KDQpBY3QgZmFzdCBvbiB0aGlzIG9uZSEgQSBNYXNzaXZl', 5).
+email_body_term(882, 'IFBSIENhbXBhaWduIGlzIHVuZGVyd2F5IGZvciBNb25kYXkgYW5kIGFsbCB0', 6).
+email_body_term(882, 'aGlzIHdlZWshDQoNCiBQcmVtaXVtIFBldHJvbGV1bSwgSW5jLiBpcyBhIGRp', 7).
+email_body_term(882, 'dmVyc2lmaWVkIGVuZXJneSBjb21wYW55IGZvY3VzZWQgb24gZXhwbG9pdGlu', 8).
+email_body_term(882, 'ZyB0aGUgdmFzdCBvaWwgYW5kIGdhcyByZXNlcnZlcyBvZiBOb3J0aGVybiBD', 9).
+email_body_term(882, 'YW5hZGEuICA', 10).

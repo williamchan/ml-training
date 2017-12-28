@@ -1,0 +1,7 @@
+email_from(11, 'igang', 'jigang.com.cn').
+email_subject_term(11, 'GB2312BtPqqreixrE', 1).
+email_to(11, 'handyboard', 'media.mit.edu').
+email_body_term(11, '', 1).
+email_body_term(11, '15', 2).
+email_body_term(11, '13570938902', 3).
+email_body_term(11, '02031331758', 4).

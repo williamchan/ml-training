@@ -1,0 +1,10 @@
+email_from(901, 'ksjf', '163.com').
+email_subject_term(901, 'GB2312BxOPM7MzsycNCzT0MrVuHC8A', 1).
+email_to(901, 'DMDX', 'psy1.psych.arizona.edu').
+email_body_term(901, '', 1).
+email_body_term(901, 'httpgaobeenud8com', 2).
+email_body_term(901, 'httpwwwnud8commlmwljjphpmidgaobee', 3).
+email_body_term(901, 'httpwwwkkf8combbs', 4).
+email_body_term(901, 'httpwwwnud8commlmzhucephpmidgaobee', 5).
+email_body_term(901, 'QQ', 6).
+email_body_term(901, '584598410', 7).

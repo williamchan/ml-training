@@ -1,0 +1,12 @@
+email_from(151, 'keerwtesy', 'zj.com').
+email_subject_term(151, 'AD', 1).
+email_subject_term(151, 'GB2312BxPq6w6OhtPqqsuxL8', 2).
+email_to(151, 'ggilfoyl', 'facstaff.richmond.edu').
+email_body_term(151, 'XPriority', 1).
+email_body_term(151, '2', 2).
+email_body_term(151, 'XMailer', 3).
+email_body_term(151, 'Foxmail', 4).
+email_body_term(151, '41', 5).
+email_body_term(151, 'cn', 6).
+email_body_term(151, '013544031555', 7).
+email_body_term(151, 'Emailszbaishenavlcomcn', 8).

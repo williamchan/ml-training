@@ -1,0 +1,16 @@
+email_from(425, 'abe_hurdiz', 'land-5.com').
+email_subject_term(425, 'Special', 1).
+email_subject_term(425, 'Situation', 2).
+email_subject_term(425, 'Report', 3).
+email_to(425, 'pine-info', 'groupms.cac.washington.edu').
+email_body_term(425, 'VHJhZGluZyBBfGVydA0KDQogUHJlbWl1bSBQZXRyb2xldW0sIEluYy4gc3lt', 1).
+email_body_term(425, 'Ym9sOiB8UCkgIHxQKSAtIHxUfCAgfEx8DQpjdXJyZW50bHkgdHJhZGluZyBh', 2).
+email_body_term(425, 'dCBhcm91bmQgMC4wMiwgd2UgZXhwZWN0IGEgYmlnIGp1bXAgaW4gdGhlIHBy', 3).
+email_body_term(425, 'aWNlIHRoaXMgd2VlayB1cCBhcm91bmQgLjEwIQ0KDQpBY3QgZmFzdCBvbiB0', 4).
+email_body_term(425, 'aGlzIG9uZSEgQSBNYXNzaXZlIFBSIENhbXBhaWduIGlzIHVuZGVyd2F5IGZv', 5).
+email_body_term(425, 'ciBXZWRuZXNkYXkgYW5kIGFsbCB0aGlzIHdlZWshIEV4cGVjdCBzb21lIEJp', 6).
+email_body_term(425, 'ZyBuZXdzIHRvIGRyaXZlIHRoaXMgb25lIHRodXIgdGhlIHJvb2YhLi5HZXQg', 7).
+email_body_term(425, 'aW4gZWFybHkgYXQgb25seSB0d28gY2VudHMhDQoNCiBQcmVtaXVtIFBldHJv', 8).
+email_body_term(425, 'bGV1bSwgSW5jLiBpcyBhIGRpdmVyc2lmaWVkIGVuZXJneSBjb21wYW55IGZv', 9).
+email_body_term(425, 'Y3VzZWQgb24gZXhwbG9pdGluZyB0aGUgdmFzdCBvaWwgYW5kIGdhcyByZXNl', 10).
+email_body_term(425, 'cnZlcyBvZiBOb3J0aGVybiBDYW5hZGEuICA', 11).

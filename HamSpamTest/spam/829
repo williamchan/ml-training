@@ -1,0 +1,15 @@
+email_from(829, 'yinsong6', 'hotmail.com').
+email_subject_term(829, 'GB2312BgtmCwYLGgueC2lZvbCw1', 1).
+email_to(829, 'handyboard', 'media.mit.edu').
+email_body_term(829, 'XPriority', 1).
+email_body_term(829, '3', 2).
+email_body_term(829, 'XMailer', 3).
+email_body_term(829, 'Microsoft', 4).
+email_body_term(829, 'Outlook', 5).
+email_body_term(829, 'Express', 6).
+email_body_term(829, '5002615200', 7).
+email_body_term(829, 'yukiBB', 8).
+email_body_term(829, 'Gb', 9).
+email_body_term(829, 'httpaa0aacomhot', 10).
+email_body_term(829, 'j', 11).
+email_body_term(829, 'bankcardbreakthrucom', 12).

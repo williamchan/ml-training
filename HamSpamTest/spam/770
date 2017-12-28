@@ -1,0 +1,10 @@
+email_from(770, 'hjkgye', 'trutyiuoy.com').
+email_subject_term(770, 'GB2312BxPq6w6GiusX9w', 1).
+email_to(770, 'DMDX', 'psy1.psych.arizona.edu').
+email_body_term(770, 'XMailer', 1).
+email_body_term(770, 'FoxMail', 2).
+email_body_term(770, '40', 3).
+email_body_term(770, 'beta', 4).
+email_body_term(770, '2', 5).
+email_body_term(770, 'cn', 6).
+email_body_term(770, '13418655264', 7).

@@ -1,0 +1,17 @@
+email_from(100, 'gabi', 'ati.es').
+email_subject_term(100, 'unsubscribe', 1).
+email_to(100, 'handyboard', 'media.mit.edu').
+email_body_term(100, 'From', 1).
+email_body_term(100, 'Gabriel', 2).
+email_body_term(100, 'Marti', 3).
+email_body_term(100, 'gabiaties', 4).
+email_body_term(100, 'unsubscribeMimeVersion', 5).
+email_body_term(100, '10', 6).
+email_body_term(100, 'ContentType', 7).
+email_body_term(100, 'textplain', 8).
+email_body_term(100, 'ContentTransferEncoding', 9).
+email_body_term(100, '7bit', 10).
+email_body_term(100, 'XMailer', 11).
+email_body_term(100, 'Becky', 12).
+email_body_term(100, 'ver', 13).
+email_body_term(100, '120', 14).

@@ -1,0 +1,16 @@
+email_from(374, 'deborah_beltranah', 'comcast.net').
+email_subject_term(374, 'The', 1).
+email_subject_term(374, 'Stock', 2).
+email_subject_term(374, 'Trading', 3).
+email_subject_term(374, 'Gunslinger', 4).
+email_to(374, 'DMDX', 'psy1.psych.arizona.edu').
+email_body_term(374, '', 1).
+email_body_term(374, 'VHJhZGluZyBBfGVydA0KDQogUHJlbWl1bSBQZXRyb2xldW0sIEluYy58UClQ', 2).
+email_body_term(374, 'KXxUfEx8DQpjdXJyZW50bHkgdHJhZGluZyBhdCBhcm91bmQgMC4wMiwgd2Ug', 3).
+email_body_term(374, 'ZXhwZWN0IGEgYmlnIGp1bXAgaW4gdGhlIHByaWNlIHRoaXMgd2VlayB1cCBh', 4).
+email_body_term(374, 'cm91bmQgLjEwIQ0KDQpBY3QgZmFzdCBvbiB0aGlzIG9uZSEgQSBNYXNzaXZl', 5).
+email_body_term(374, 'IFBSIENhbXBhaWduIGlzIHVuZGVyd2F5IGZvciBNb25kYXkgYW5kIGFsbCB0', 6).
+email_body_term(374, 'aGlzIHdlZWshDQoNCiBQcmVtaXVtIFBldHJvbGV1bSwgSW5jLiBpcyBhIGRp', 7).
+email_body_term(374, 'dmVyc2lmaWVkIGVuZXJneSBjb21wYW55IGZvY3VzZWQgb24gZXhwbG9pdGlu', 8).
+email_body_term(374, 'ZyB0aGUgdmFzdCBvaWwgYW5kIGdhcyByZXNlcnZlcyBvZiBOb3J0aGVybiBD', 9).
+email_body_term(374, 'YW5hZGEuICA', 10).
